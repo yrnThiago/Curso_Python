@@ -1,3 +1,7 @@
 # Exercicios_python
 
-Soluções de todos os exercícios do Curso Python (Curso em Vídeo) -> https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
+Olá pequeno gafanhoto, 
+  aqui você vai encontrar todas as soluções dos exercícios do Curso Python (Curso em Vídeo).
+  
+  Mas antes de abrir qualquer solução, tente ao máximo resolver por conta própria, eu confio em você!
+
